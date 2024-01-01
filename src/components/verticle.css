@@ -1,0 +1,6 @@
+.vertical-line {
+    width: 2px; /* Adjust the width of the line */
+    height: 100%; /* Adjust the height to cover the full height of the container */
+    background-color: #000; /* Adjust the color of the line */
+    margin: 0 10px; /* Adjust the margin to create spacing around the line */
+  }

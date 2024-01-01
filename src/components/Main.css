@@ -1,0 +1,370 @@
+
+  
+  .close-button {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    font-size: 18px;
+    cursor: pointer;
+    border: none;
+    background: none;
+    color: #aaa;
+  }
+  
+ 
+  .todo{
+    width: Hug (68px);
+  height: Fixed (32px);
+  border-radius: 20px;
+  /* padding-left: 10%; */
+  /* padding-top; */
+  padding: 2%;
+  margin: 0% 65% 7% 0%;
+  gap: 10px;
+  background: #EBEEFC;
+font-family: Nunito Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+color: #3659E2;
+
+
+
+
+  }
+  .Addnew{
+    width: Fixed (270px);
+height: Fixed (32px);
+/* padding: 10px, 8px, 10px, 8px; */
+/* padding: 0% 0% 0% 3%; */
+padding:2%;
+border-radius: 8px;
+gap: 4px;
+background: #EBEEFC;
+border:none;
+font-family: Nunito Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+color: #3659E2;
+
+  }
+
+
+/* AddItemForm.css */
+
+
+.popup-form {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000; /* Adjust as needed to be higher than the form-container */
+}
+.form-container {
+  background: #fff; /* White background for the form */
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 50%; /* Adjust as needed */
+  max-height: 58%; /* Adjust as needed */
+  overflow: auto;
+  z-index: 1001; /* Adjust as needed */
+}
+/* Additional styles for better appearance */
+/* .form-container {
+  width: 300px;
+  max-width: 100%;
+} */
+
+.close-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+}
+
+/* .form-container{
+  width: Hug (10%);
+height: Hug (388px);
+top: 809px;
+left: -490px;
+border-radius: 10px;
+
+} */
+.card{
+  width: Fixed (270px);
+height: Hug (114px);
+top: 20px;
+padding: 16px;
+border-radius: 8px;
+gap: 10px;
+background: #FFFFFF;
+box-shadow: 0px 0px 8px 0px #3659E229;
+border:none;
+margin-bottom: 15%;
+
+
+}
+.card-name{
+  width: 146px;
+  height: 24px;
+  font-family: Nunito Sans;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+
+
+
+}
+.card-date{
+
+font-family: Nunito Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+color: #777777;
+width: 54px;
+height: 20px;
+
+
+}
+.dt{
+  width: Hug (81px);
+height: Hug (24px);
+gap: 4px;
+
+padding: 4px, 8px, 4px, 8px;
+border-radius: 8px;
+gap: 10px;
+background: #EBEEFC;
+font-family: Nunito Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: center;
+color: #3659E2;
+
+
+
+
+}
+
+.ti{
+  width: Fixed (670px);
+  height: Fixed (52px);
+  padding: 10px, 24px, 10px, 24px;
+  border: 0px, 0px, 1px, 0px;
+  justify-content: space-between;
+      font-family: Nunito Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: linear-gradient(0deg, #D8E0FD, #D8E0FD),
+linear-gradient(0deg, #FFFFFF, #FFFFFF);
+border-bottom: 1px solid #D8E0FD;
+color: #263FA0;  
+margin-bottom: 1%;
+}
+
+
+
+
+
+
+.lanainpu{
+  width: Fill (622px);
+height: Hug (68px);
+gap: 4px;
+text-align: left;
+
+}
+.lana{
+font-family: Nunito Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+width: 94px;
+height: 20px;
+color: #232323;
+
+
+}
+.lana label{
+  font-family: Nunito Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+width: 94px;
+height: 20px;
+color: #232323;
+
+} 
+.inpu{
+  width: Fixed (622px);
+height: Hug (140px);
+top: 765px;
+left: 2098px;
+padding: 10px, 0px, 10px, 0px;
+border-radius: 8px;
+background-color: #FFFFFF;
+box-shadow: 0px 4px 12px 0px #3659E214;
+
+box-shadow: 0px 0px 8px 0px #3659E214;
+
+
+
+}
+
+
+ .inpu{
+  width: Fill (622px);
+height: Fixed (44px);
+border-radius: 8px;
+border: 1px;
+justify-content: space-between;
+color: linear-gradient(0deg, #B9C0CB, #B9C0CB),
+linear-gradient(0deg, #FFFFFF, #FFFFFF);
+border: 1px solid #B9C0CB;
+
+
+
+} 
+.stco{
+  width: Fill (622px);
+height: Hug (68px);
+gap: 10px;
+text-align: left;
+margin-left: 0%;
+
+} 
+.close-button{
+  
+  
+
+color: #97A1B2;
+
+
+}
+.stco .lanadate{
+  width: Fill (306px);
+height: Fixed (44px);
+border-radius: 8px;
+border: 1px;
+justify-content: space-between;
+color: linear-gradient(0deg, #B9C0CB, #B9C0CB),
+linear-gradient(0deg, #FFFFFF, #FFFFFF);
+border: 1px solid #B9C0CB;
+font-family: Nunito Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+padding: 4%;
+
+
+
+}
+.lanasel{
+  width: Fill (622px);
+height: Fixed (44px);
+padding: 4px, 12px, 4px, 12px;
+border-radius: 8px;
+border: 1px;
+justify-content: space-between;
+color: linear-gradient(0deg, #B9C0CB, #B9C0CB),
+linear-gradient(0deg, #FFFFFF, #FFFFFF);
+border: 1px solid #B9C0CB;
+
+
+}
+
+
+.lanainpu .inpu{
+  padding: 2%;
+  margin-bottom: 3%;
+}
+
+
+
+
+.inpuop{
+  font-family: Nunito Sans;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 94px;
+  height: 20px;
+  color: #232323;
+
+
+
+}
+.save{
+
+padding-left: 3%;
+padding-right: 3%;
+padding-top: 11px;
+padding-bottom: 11px;
+width: Hug (55px);
+height: Fixed (32px);
+border-radius: 8px;
+gap: 4px;
+ background: #3659E2;
+ border: none;
+ color: #FFFFFF;
+font-family: Nunito Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 1%;
+
+
+}
+.side{
+  margin-top: 1%;
+  text-align: end;
+}
+.canc{
+  width: Hug (69px);
+height: Fixed (32px);
+border-radius: 8px;
+gap: 4px;
+background: #EBEEFC;
+color: #1B72C2;
+border: none;
+font-family: Nunito Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+padding-left: 3%;
+padding-right: 3%;
+padding-top: 2%;
+padding-bottom: 2%;
+
+
+}

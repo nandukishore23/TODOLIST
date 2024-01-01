@@ -1,0 +1,37 @@
+.re{
+    width: Hug (89px);
+height: Fixed (32px);
+/* padding: 4px, 12px, 4px, 12px; */
+border-radius: 20px;
+gap: 10px;
+font-family: Nunito Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+color: #3FA1E3;
+background: #ECF6FC;
+border: none;
+margin: 0% 60% 7% 0%;
+padding: 2%;
+text-align: left;
+
+}
+.Addme2{
+    width: Fixed (270px);
+height: Fixed (32px);
+padding: 2%;
+border-radius: 8px;
+gap: 4px;
+background: #EFF8FF;
+font-family: Nunito Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: center;
+color: #3FA1E3;
+border:none;
+
+}

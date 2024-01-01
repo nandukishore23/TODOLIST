@@ -1,0 +1,46 @@
+.Inpo{
+    width: Hug (97px);
+    height: Fixed (32px);
+    /* padding: 4px, 12px, 4px, 4%; */
+    border-radius: 20px;
+    gap: 10px;
+font-family: Nunito Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+color: #EE46BC;
+background: #FDF2FA;
+margin-right: 60%;
+padding-left: 4%;
+margin-bottom: 7%;
+padding: 2%;
+text-align: left;
+
+
+
+    
+}
+.Addnew1{
+  
+width: Fixed (270px);
+height: Fixed (32px);
+/* padding: 10px, 8px, 10px, 8px; */
+padding: 2%;
+border-radius: 8px;
+gap: 4px;
+border: none;
+color: #EE46BC;
+font-family: Nunito Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: center;
+background: #FDF2FA;
+
+
+
+
+}
